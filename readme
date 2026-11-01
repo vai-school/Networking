@@ -6,8 +6,6 @@ You run both Client and Server in a dedicated terminal to use the chatroon
 
 I wanted to create a simple chat room with an open port
 
-
-
 [Software Demo Video](https://youtu.be/yU_9mjXlUCQ)
 
 # Network Communication
@@ -28,6 +26,8 @@ Threading
 Socket
 
 # Useful Websites
+
+https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client
 
 # Future Work
 
