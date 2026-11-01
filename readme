@@ -1,0 +1,37 @@
+# Overview
+
+This is a program that is a basic client server chatroom that is to show my beginner understanding of Networking using the Python language
+
+You run both Client and Server in a dedicated terminal to use the chatroon
+
+I wanted to create a simple chat room with an open port
+
+
+
+[Software Demo Video](https://youtu.be/yU_9mjXlUCQ)
+
+# Network Communication
+
+client/server
+
+TCP and port 5000
+
+UTF-8 
+
+# Development Environment
+
+Claude (for bugs and understanding code previously not understood)
+VS Code
+
+Python
+Threading
+Socket
+
+# Useful Websites
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Commands for User
+* GUI, colors
+* Admins
